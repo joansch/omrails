@@ -1,0 +1,1 @@
+alias tunnel="ssh -N -L 5439:processing-dev.cgbujgsngpb1.us-east-1.redshift.amazonaws.com:5439 rails"
